@@ -14,7 +14,7 @@ nav {
 .jumbotron {
   padding-top: 6rem;
   height: 500px;
-  background-image: url(../img/header.jpg);
+  background-image: url(img/header.jpg);
   background-attachment: fixed;
   background-size: cover;
   color: rgb(2, 2, 63);
